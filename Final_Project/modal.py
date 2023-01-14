@@ -39,6 +39,8 @@ except:
 #by calling a pandas function
 
 pandaFrame =pd.DataFrame(historyDeatails)
+pandaFrame.to_csv("user_item_interactions.csv", index=False)
+
 pandaFrame.columns = ['visit_id', 'user_id','phone_number', 'ages_range', 'item_id','item_visited', 'rating_given', 'visiting_times\
     ', 'gender', 'residence','parent_category', 'sub_category', 'item_location','visiting_status']
 
