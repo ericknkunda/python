@@ -184,21 +184,19 @@ rf.fit(X_test, y_test)
 # Print the training score
 print("Training score using Random Forest: ", rf.score(X_train, y_train))
 print("Test score using Random Forest: ", rf.score(X_test, y_test))
+print("Random forest predictions ",rf.predict([10,'Ibere Rya Bigogwe']) )
 # print("Random forest predictions ",rf.predict(X_train) )
 # print("Random forest predictions ",rf.predict(X_test) )
 
 from sklearn.model_selection import cross_val_score
 from sklearn.linear_model import LinearRegression
 
-# Create an instance of your model
-model = LinearRegression()
-
 # Use the cross_val_score function to perform k-fold cross-validation
-scores = cross_val_score(rf, X_transformed, y, cv=5)
-
+scoresreg = cross_val_score(reg, X_transformed, y, cv=5)
+scoresrand =cross_val_score(rf, X_transformed, y, cv=5)
 # Print the mean and standard deviation of the scores
-print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
-
+print("Accuracy of linear regression: %0.2f (+/- %0.2f)" % (scoresreg.mean(), scoresreg.std() * 2))
+print("Accuracy of random forest: %0.2f (+/- %0.2f)" % (scoresrand.mean(), scoresrand.std() * 2))
 rf.predict([[5.]*100])
 
 # import pickle
