@@ -184,7 +184,7 @@ rf.fit(X_test, y_test)
 # Print the training score
 print("Training score using Random Forest: ", rf.score(X_train, y_train))
 print("Test score using Random Forest: ", rf.score(X_test, y_test))
-print("Random forest predictions ",rf.predict([10,'Ibere Rya Bigogwe']) )
+# print("Random forest predictions ",rf.predict([10,'Ibere Rya Bigogwe']) )
 # print("Random forest predictions ",rf.predict(X_train) )
 # print("Random forest predictions ",rf.predict(X_test) )
 

@@ -1,0 +1,804 @@
+dataset_id,dataset_phone,dataset_names,dataset_email,dataset_ages,dataset_gender,dataset_residence
+3,0780087529,Eric Nkundimana      ,macnkunda@gmail.com,16-35,Male,Rural
+4,0780929398,Eric Nkundimana      ,macnkunda@gmail.com,16-35,Male,Rural
+5,0783083432,Eric Nkundimana      ,macnkunda@gmail.com,16-35,Male,Rural
+6,0780494477,Sylvie Shimwa Uwase      ,slvshimwa@gmail.com,16-35,Male,Rural
+7,0725317338,Sylvie Shimwa Uwase      ,slvshimwa@gmail.com,16-35,Male,Rural
+8,0780083239,Vestine Uwase      ,,16-35,Male,Rural
+9,0788361838,Leoncie Uwingeneye      ,,16-35,Male,Rural
+10,0725735871,Leoncie Uwingeneye      ,,16-35,Male,Rural
+11,0785430967,Hoziane Uwineza      ,,10-15,Female,Rural
+12,0783688872,Obed Nyambo      ,,16-35,Female,Rural
+13,0785782374,Epimaque Habineza      ,,36-,Female,Rural
+14,0788965467,Epimaque Habineza      ,,36-,Female,Rural
+15,0781172066,Abubakar Hagenimana      ,,16-35,Female,Rural
+16,0735691361,Vestine Uwase      ,,16-35,Female,Rural
+17,0786595716,Adeline       ,,10-15,Female,Rural
+18,0780796796,Adeline Ayinkamiye      ,,16-35,Female,Rural
+19,0780495499,Adeline Irakiza      ,,16-35,Female,Rural
+20,0784255892,Adeline Mukasine      ,,36-,Female,Rural
+21,0787926500,Adelissa Munyana      ,,36-,Female,Rural
+22,0782309079,Denise Nyirarukundo      ,,16-35,Female,Rural
+23,0780591875,Agnes Rukundo      ,,16-35,Female,Rural
+24,0788889941,Aime Ishimwe      ,,36-,Female,Rural
+25,0781610314,Aime Ishimwe      ,,36-,Female,Rural
+26,0783142434,Aimeline Umutesi      ,,16-35,Female,Rural
+27,0780306765,Aisha Harerimana      ,,36-,Female,Rural
+28,0781252016,Marc Akayesu      ,,16-35,Female,Rural
+29,0789904102,Clementine Akimpaye      ,,36-,Female,Rural
+30,0785711253,Hirwa Albert      ,,16-35,Female,Rural
+31,0787004938,Albert Tuyishimire      ,,16-35,Female,Rural
+32,0787335029,Albert Hirwa      ,,16-35,Female,Rural
+33,0789121439,Albert Hirwa      ,,16-35,Female,Rural
+34,0782533199,Albertine Umfuyisoni      ,,10-15,Female,Rural
+35,0784071096,Alice Mutoni      ,,16-35,Female,Rural
+36,0789108668,Aline Irasubiza      ,,16-35,Female,Rural
+37,0784294372,Aline Uwizera      ,,16-35,Female,Rural
+38,0785782334,Aline Murungi      ,,16-35,Female,Rural
+39,0788594658,Aline Mutesi      ,,16-35,Female,Rural
+40,0785081862,Aline Uwera      ,,16-35,Female,Rural
+41,0780634498,Alleluia Merci      ,,16-35,Female,Rural
+42,0788202824,Allette Ishimwe      ,,16-35,Female,Rural
+43,0786111237,Aloyz Tumukunde      ,,36-,Female,Rural
+44,0781411802,Alphonse Mugabo      ,,36-,Female,Rural
+45,0789183743,Alphonsine Muhimpundu      ,,16-35,Female,Rural
+46,0789975903,Alphonse Nshimiyiimana      ,,36-,Female,Rural
+47,0788717257,Alphonse Nshimiyiimana      ,,36-,Female,Rural
+48,0786447411,Alphonse Tuyizere      ,,16-35,Female,Rural
+49,0782638619,Alphonse Uwineza      ,,36-,Female,Rural
+50,0781639468,Anastase Tuyizere      ,,36-,Female,Rural
+51,0780600680,Andy Nyenimigabo      ,,16-35,Female,Rural
+52,0786692339,Angelique Niyonshuti      ,,36-,Female,Rural
+53,0780687658,Pierre Mugenzi      ,,36-,Female,Rural
+54,0780756744,Angelique Uwera      ,,16-35,Female,Rural
+55,0788913846,Angeline Kaneza      ,,16-35,Female,Rural
+56,0783982005,Angelique Uwineza      ,,36-,Female,Rural
+57,0783442098,Angelique Uwibambe      ,,16-35,Female,Rural
+58,0787071971,Anitha  Uwihanganye      ,,16-35,Female,Rural
+59,0721359746,Anne Tuyizere      ,,10-15,Female,Rural
+60,0789650388,Anne Tuyizere      ,,10-15,Female,Rural
+61,0728727048,Anne Marie      ,,36-,Female,Rural
+62,0786446437,Antoine Renzaho      ,,36-,Female,Rural
+63,0785460271,Annuarithe Umuhire      ,,16-35,Female,Rural
+64,0780771442,Apoline      ,,36-,Female,Rural
+65,32465416403,Aristide Ishimo      ,,16-35,Female,Rural
+66,0780605180,Arsene Nyirinkwaya      ,,16-35,Female,Rural
+67,0791702528,Asa Microfinance      ,,36-,Female,Rural
+68,0783940825,Assoupta Byukusenge      ,,16-35,Female,Rural
+69,0780408317,Assoumpta Nyirabagenzi      ,,36-,Female,Rural
+70,0782725686,Athanase Ruremesha            ,,36-,Female,Rural
+71,0785080389,augustin Murwanashyaka      ,,36-,Female,Rural
+72,0787147592,Antoinette Aunt      ,,36-,Female,Rural
+73,0788413309,Maggie Muhire      ,,36-,Female,Rural
+74,0788880002,Nadine Ugirase      ,,36-,Female,Rural
+75,0788451741,Velonique Uwamariya      ,,36-,Female,Rural
+76,0786720332,Odette Ingabire      ,,16-35,Female,Rural
+77,0784504515,Theo Bagumire      ,,36-,Female,Rural
+78,0780332261,Youssuf Bahati       ,,16-35,Female,Rural
+79,0788912307,Youssuf Bahati       ,,16-35,Female,Rural
+80,0787791032,Youssuf Bahati       ,,16-35,Female,Rural
+81,0780689877,Eugenie Ishimwe      ,,16-35,Female,Rural
+82,0780474790,Baptiste Uwayezu      ,,36-,Female,Rural
+83,0726199229,Baptiste Uwayezu      ,,36-,Female,Rural
+84,0781052447,Baptiste Uwayezu      ,,36-,Female,Rural
+85,0787990056,Eric Barayanga      ,,36-,Female,Rural
+86,0781056693,Basil Mwiseneza      ,,36-,Female,Rural
+87,0737657460,Beatha Nirere      ,,16-35,Female,Rural
+88,0780807815,Beatha Nirere      ,,16-35,Female,Rural
+89,0789620510,Beatrice Mukagasigwa      ,,36-,Female,Rural
+90,0788841705,Disiri Harerimana      ,,36-,Female,Rural
+91,0789431977,Benitha Ishimwe      ,,10-15,Female,Rural
+92,0726994200,Irakoze Immaculee      ,,16-35,Female,Rural
+93,0782998351,Immaculee Irakoze      ,,16-35,Female,Rural
+94,0788657415,Immaculee Irakoze      ,,16-35,Female,Rural
+95,0782879894,Beatrice Nishimwe      ,,36-,Female,Rural
+96,0726704890,Belyze Ingabire      ,,16-35,Female,Rural
+97,0780310640,Blaize Mugisha      ,,10-15,Female,Rural
+98,0789740638,Blandine Umuhoza      ,,16-35,Female,Rural
+99,0789433287,Willy Blaize Ineza      ,,36-,Female,Rural
+100,0780537808,Bonie Gihozo      ,,16-35,Female,Urban
+101,0787514152,Bosco Gakindi      ,,36-,Male,Urban
+102,0780779157,Bosco Gakindi      ,,36-,Male,Urban
+103,0722884810,Bosco Uwimpuhwe      ,,36-,Male,Urban
+104,0781253619,Bosco Baribeshya      ,,36-,Male,Urban
+105,0790466581,Frodouard Semana      ,,36-,Male,Urban
+106,0780781009,Marie Aime Boye      ,,16-35,Male,Urban
+107,0785307355,Bontee Urayeneza      ,,16-35,Male,Urban
+108,0780698006,Brune Cynthia      ,,10-15,Male,Urban
+109,0782780279,Bruno Ishimwe      ,,16-35,Male,Urban
+110,0783387275,James Ntambara      ,,36-,Male,Urban
+111,0787250332,Roge Kabagema      ,,16-35,Male,Urban
+112,0780695775,Yves Manishimwe      ,,16-35,Male,Urban
+113,0787493142,Cecile Bukara      ,,36-,Male,Urban
+114,0789444220,Emmanuel Byiringiro      ,,16-35,Male,Urban
+115,0782446313,Oswald Byumvuhore      ,,36-,Male,Urban
+116,0783766303,Edson Willy      ,,16-35,Male,Urban
+117,0789515306,Cadette Uwineza      ,,10-15,Male,Urban
+118,0786668122,Alphonse Niyonkuru      ,,36-,Male,Urban
+119,0788513256,Capitale      ,,36-,Male,Urban
+120,0788309191,Emmanuel Rugaba      ,,36-,Male,Urban
+121,0780728136,Celestin Niyindagiriye      ,,16-35,Male,Urban
+122,0780607409,Cynthia Ineza      ,,16-35,Male,Urban
+123,0785096421,Angelique Uwamahoro      ,,16-35,Male,Urban
+125,0789479719,Charlotte      ,,36-,Male,Urban
+126,0784788153,Charlotte jo      ,,16-35,Male,Urban
+127,0723860989,Claire Uwineza      ,,16-35,Male,Urban
+128,0781950070,Christian Ndengeye      ,,36-,Male,Urban
+129,0786498737,Christella Ufiteyezu      ,,16-35,Male,Urban
+130,0780331484,Christian Karekezi      ,,16-35,Male,Urban
+131,0727787737,Christine Nyirarugendo      ,,36-,Male,Urban
+132,0780796323,Christine Nyirarugendo            ,,36-,Male,Urban
+133,0788596552,Christine zirina      ,,16-35,Male,Urban
+134,0783446438,Christine Nyiransabimana      ,,16-35,Male,Urban
+135,0782509177,Clarisse Isingizwe      ,,16-35,Male,Urban
+136,0739279826,Clarisse Isingizwe      ,,16-35,Male,Urban
+137,0739262106,Mutoni Claudine,mutoniclaudine@gmail.com,16-35,Male,Urban
+138,0783201562,Ayimana Pacifique,ayipac@gmail.com,36-,Male,Urban
+139,0789395387,Annonciathe,annonciathenyir@gmail.com,36-,Male,Urban
+140,,,,,Male,Urban
+141,0786075569,Aimable Uwizeye,,16-35,Male,Urban
+142,0789779375,Antoine Mutuyezu,,16-35,Male,Urban
+143,0784947439,Nsengimana Antoine,,16-35,Male,Urban
+144,0780204053,Turatimana Jean Baptista,,36-,Male,Urban
+145,0787410094,Prosper Hitayezu,,36-,Male,Urban
+146,0786485983,Honorathe Bizumuremyi,honbizumuremyi@gmail.com,16-35,Male,Urban
+147,0792437501,Honorathe Bizumuremyi,,16-35,Male,Urban
+148,0784969155,Yamuragiye Farancoise,,16-35,Male,Urban
+149,0784450839,XXX Akimana,,36-,Male,Urban
+150,0790210798,Amizero Chance,,16-35,Male,Urban
+151,0786191323,Imenyabayo Xavier,imenyabayoxavier99@gmail.com,16-35,Male,Urban
+152,0788487412,Zalyah Nyiramihanda,,36-,Male,Urban
+153,0780728218,Ahoruzazira Vianne,,36-,Male,Urban
+154,0731965279,Uzamukunda Marry,,36-,Male,Urban
+155,0788251256,Abayisenga Diedone,,16-35,Male,Urban
+156,0788626235,Theonest Hakorimana,,16-35,Male,Urban
+157,07844323276,Hakizimana Theonest,,16-35,Male,Urban
+158,0789723510,Obed ,,36-,Male,Urban
+159,0787686335,Solange Ntakirutimana,,16-35,Male,Urban
+160,0785000393,Ishimwe Xilivie,,16-35,Male,Urban
+161,0781793011,Umutoni Shakila,,16-35,Male,Urban
+162,0785145632,Irene Uwamariya,,36-,Male,Urban
+163,0789592607,Venuste NSNEGIMANA,,36-,Male,Urban
+164,0783674162,Musabyimana Saratier,,36-,Male,Urban
+165,0791009900,Musanabera Allieane,,36-,Male,Urban
+166,0784659514,Rugamba J cloude,,16-35,Male,Urban
+167,0781164595,Bukusenge Rozalie,,16-35,Male,Urban
+168,0786475506,Rosine Umuhoza ,,16-35,Male,Urban
+169,0783020769,Mushimiyimana Angelique,angenshimiye@gmail.com,16-35,Male,Urban
+170,0789593195,Mbaboneyubusa Espernce,,16-35,Male,Urban
+171,0780553211,Twahirwa Prosper,,16-35,Male,Urban
+172,0786751664,Kamegeri Paulo,,16-35,Male,Urban
+173,0782001794,Biziyaremye Patrice,,16-35,Male,Urban
+174,0728095125,Uwamariya Jeanette,,16-35,Male,Urban
+175,0789008112,Umulindwa Fabrice,,16-35,Male,Urban
+176,0784997858,JeanNepomuscene Biziyaremye,,36-,Male,Urban
+177,0783829242,Idrissa Mbarushimana,,36-,Male,Urban
+178,0788722777,Eduard Hakizimana,,36-,Male,Urban
+179,0785501497,HERITSIEN Bizimungu,,16-35,Male,Urban
+180,0785824445,Biziyaremye JeanNepomuscene,,36-,Male,Urban
+181,0782832232,Dieudonne MUNYAMPINGA,,36-,Male,Urban
+182,0788437432,Florent Nsabimana,,36-,Male,Urban
+183,0788531843,Cyprien Nayisenga,,36-,Male,Urban
+184,0780644037,Nyabenda Felix,,36-,Male,Urban
+185,0780594921,Gisubizo Olivier,,16-35,Male,Urban
+186,0726864887,Ntakirutimana Obed,,16-35,Male,Urban
+187,0725726097,Nyirangirimana Jackiline,,16-35,Male,Urban
+188,0783600533,Stephane Nyandwi,,36-,Male,Urban
+189,0781438670,Nyandwi Emmanuel,,16-35,Male,Urban
+190,0783171588,Niyiduha anatholie,,36-,Male,Urban
+191,0789420136,Nyagatare Deogracias,,16-35,Male,Urban
+192,0780404909,Emmanuel Nsabimpuhwe,,16-35,Male,Urban
+193,0784748977,Ignace Nshimiyimana,,16-35,Male,Urban
+194,0787175851,Nsengiyaremye Emmanuel,,16-35,Male,Urban
+195,0781815745,Nsengimana Emmanueli,,16-35,Male,Urban
+196,0781277918,Nizeyimana Francsoi,,16-35,Male,Urban
+197,0784882629,Niyonsenga Erick,,16-35,Male,Urban
+198,0788205219,Niyomuhozi Emmanuel,,16-35,Male,Urban
+199,0780506516,Nikuze Marry Claire,,16-35,Male,Urban
+200,0780792093,Ngeriyinkindi Claudine,,16-35,Male,Urban
+201,0789487089,Ngaruyimana Innocent,,36-,Male,Urban
+202,0787674821,Ndayisenga Emmanuel,,16-35,Male,Urban
+203,0781323218,Twagirayezu JMV,,16-35,Male,Urban
+204,0785290481,Nampaka Graime,,16-35,Male,Urban
+205,0787752048,Muyizere Madolenne,,16-35,Male,Urban
+206,0783868120,Mutoni  Francine,,16-35,Male,Urban
+207,0791154060,Mutesi Clarissa,,16-35,Male,Urban
+208,0780598527,Mukansinzi Epiphanie,,16-35,Male,Urban
+209,0782203919,Mujawayezu Alice,,36-,Male,Urban
+210,0785055676,Mporanyi Jean Claude,,16-35,Male,Urban
+211,0784550272,Misago Jean Baptatista,,16-35,Male,Urban
+212,078712848,Genevieve Uwamariya,,36-,Male,Urban
+213,0784510083,Meschacke Dushime,,16-35,Male,Urban
+214,0781594405,Kampile Mariete,,16-35,Male,Urban
+215,0783333445, Berina Dushimirimana,,16-35,Male,Urban
+216,0780367873,Bonifride Maniragena,,16-35,Male,Urban
+217,0783955899,Chantal,,36-,Male,Urban
+218,0783185223,Byiringiro Christian,,16-35,Male,Urban
+219,0785571627,Claude Niyonkuru,,16-35,Male,Urban
+220,0788355744,Nyandwi Colonel,,36-,Male,Urban
+221,0787962466,Tumukunde Alloys,,16-35,Male,Urban
+222,0783572823,Twimarirungu Josiane,,16-35,Male,Urban
+223,0780523274,Hakizimana Danier,,16-35,Male,Urban
+224,0788651016,Emmanuel Mbonabucya,,36-,Male,Urban
+225,0782794282,Nkezuwimye David,,16-35,Male,Urban
+226,0788740978,Davide busomucya,,36-,Male,Urban
+227,0785168914,Erick uzayisenga,,36-,Male,Urban
+228,0789728209,Claude kwizera,,16-35,Male,Urban
+229,0788722091,Claude kwizera,,16-35,Male,Urban
+230,0789314605,Cloudethe Uwineza,,16-35,Male,Urban
+231,0780596535,Uwitonze Claudethe,,16-35,Male,Urban
+232,0781027636,Eva Nyinawumuntu,,16-35,Male,Urban
+233,0784532446,Claudine Niyonsaba,,16-35,Male,Urban
+234,0780647919,Cloudine Farm,,16-35,Male,Urban
+235,0783254973,Mushimiyimana Cloudine,,16-35,Male,Urban
+236,0780808629,Mukaremera Epiphanie,,36-,Male,Urban
+237,0780670498,Clemance Ingabire,,16-35,Male,Urban
+238,0783262826,Clemance Uwitonze,,36-,Male,Urban
+239,0780637782,Clement Pascal,,16-35,Male,Urban
+240,0785111389,Clemantine Niyigena,,16-35,Male,Urban
+241,0783858694,Clemantine Niyonteze,,16-35,Male,Urban
+242,0780103213,Uwacu Dianne,,16-35,Male,Urban
+243,0788583375,Clementine Uwayirera,,36-,Male,Urban
+244,0786618452,Christopher Ntashoberera,,36-,Male,Urban
+245,0730941258,Clemantine Nyiranshimiyimana,,16-35,Male,Urban
+246,0722459367,Umuhire cleopatre,,16-35,Male,Urban
+247,0784459367,Umuhire cleopatre,,16-35,Male,Urban
+248,14189784449,Umuhire cleopatre,,16-35,Male,Urban
+249,0784332349,Iranzi Stiven,,16-35,Male,Urban
+250,0784979848,Uwineza Cloudethe,,36-,Male,Urban
+251,0788791967,Iradukunda Damour,,36-,Male,Urban
+252,0732702205,Hategekimana Nicole,,36-,Male,Urban
+253,0780917839,Uwase Sabin,,36-,Male,Urban
+254,0785583403,Matabaro Augist,,36-,Male,Urban
+255,0787015951,Josiane Ibyishaka,,16-35,Male,Urban
+256,0781906888,Umuhire Concorde,,16-35,Male,Urban
+257,0789463705,Erneste Tuyishimire,,36-,Male,Urban
+258,078734266,Erneste Tuyishimire,,36-,Male,Urban
+259,0788445849,Ngabonziza Jackison,,16-35,Male,Urban
+260,0780616991,Derick Niyigaba,,16-35,Male,Urban
+261,0781299595,Patrick Mahoro,,16-35,Male,Urban
+262,07825385377,Patrick Mahoro,,16-35,Male,Urban
+263,0780335350,Bizimana Salomon,,16-35,Male,Urban
+264,0737994273,Rwibutso Serge,,16-35,Male,Urban
+265,0789385122,Cyusa Odda,,16-35,Male,Urban
+266,0785367139,Habagusenga Jack,,16-35,Male,Urban
+267,0788807841,Vivenci Demokarisi,,36-,Male,Urban
+268,0780816995,Kevin Ishimwe,,16-35,Male,Urban
+269,0724258868,Cyusa Odda,,16-35,Male,Urban
+270,0726157277,Cyusa Odda,,16-35,Male,Urban
+271,0783313776,Cyuzuzo Yvte,,16-35,Male,Urban
+272,0788629833,Yankurije Emmanuel,,36-,Male,Urban
+273,0727438219,Yankurije Emmanuel,,36-,Male,Urban
+274,0781543130,Dalia Tuyesenge,,16-35,Male,Urban
+275,0786042108,Uwimana Darissa,,16-35,Male,Urban
+276,0788215445,Valenci Twizeyimana,,36-,Male,Urban
+277,0725442215,Uwimana Darissa,,16-35,Male,Urban
+278,0783091628,Harelimana Damascen,,36-,Male,Urban
+279,0791688753,Harelimana Damascen,,36-,Male,Urban
+280,0727947003,Harelimana Damascen,,36-,Male,Urban
+281,0788684677,Ntawanguwayo Damascene,,36-,Male,Urban
+282,0784921844,Hakizimana Damascene,,36-,Male,Urban
+283,0725302083,Damour Uwera,,36-,Male,Urban
+284,0788632830,Daniel Sebera,,36-,Male,Urban
+285,0727704627,Daniella Ikuzwe,,16-35,Male,Urban
+286,0786524611,Hakizimana Daniel,,36-,Male,Urban
+287,0789937977,Daniel Murisa,,36-,Male,Urban
+288,0724404810,Iraguha Francois ,,16-35,Male,Urban
+289,0727763233,iraguha Francois,,16-35,Male,Urban
+290,0788886485,Isaac Mfitumukiza,,36-,Male,Urban
+291,0783991754,Isaac Mfitumukiza,,36-,Male,Urban
+292,0788441780,David Muhayimana,,36-,Male,Urban
+293,0780629340,Pascasie Nyirandinkabandi,,36-,Male,Urban
+294,0784015012,Ishimwe Deborah,,16-35,Male,Urban
+295,0788287915,Ishimwe Deborah,,16-35,Male,Urban
+296,0786605836,Leonille Musabyeyezu,,36-,Male,Urban
+297,0788441675,Gaspard Kabandana,,36-,Male,Urban
+298,0787308600,Denyse Ishimwe,,16-35,Male,Urban
+299,0788915874,Denyse Uwase,,10-15,Male,Urban
+300,0783177672,Derrick Kabanda,,36-,Male,Urban
+301,0787283091,emmanuel Uwaahoro,,16-35,Male,Urban
+302,0789666113,Diane Niyonsaba,,16-35,Male,Urban
+303,0780621713,Diane Kwizera,,16-35,Male,Urban
+304,0728311311,Diane Kwizera ,,16-35,Male,Urban
+305,0787921692,Didier Irakiza,,16-35,Male,Urban
+306,0780689285,Dieudonne Nshizirungu,,16-35,Male,Urban
+307,0780673222,Dieudone Nshimiyimana,,16-35,Male,Urban
+308,0788425019,Dinah Mukakimenyi,,36-,Male,Urban
+309,0789420450,Dieudone Maniraguha,,16-35,Male,Urban
+310,0788706679,Janvier  Usabimana,,16-35,Male,Urban
+311,0783031574,Esperance Uwanyirigira,,36-,Male,Urban
+312,0788274650,Thacienne Uwanyirigira,,36-,Male,Urban
+313,0788414957,Theodosie Musabwayire,,36-,Male,Urban
+314,0784833152,Domina Umuganwa,,16-35,Male,Urban
+315,0788904182,Doreen Shimirwa,,16-35,Male,Urban
+316,0780603719,Donath Hagenimana,,16-35,Male,Urban
+317,0788680214,Donatha Uwamahoro,,16-35,Male,Urban
+318,0788856380,Anaclet Karamuka,,36-,Male,Urban
+319,0787976295,Zacharie Turatsinze,,36-,Male,Urban
+320,0780590359,Salim Mukunzi,,36-,Male,Urban
+321,0780779147,Eric Ruziranenge,,36-,Male,Urban
+322,0783524253,Dushime Olive,,16-35,Male,Urban
+323,0783248785,Dusabe Emmanuel,,36-,Male,Urban
+324,0726965982,Dusabe Emmanuel,,36-,Male,Urban
+325,0780614372,Yvette Dushime,,16-35,Male,Urban
+326,0787863529,Edissa Tuyishime,,16-35,Male,Urban
+327,0780617050,Edith Kelle,,36-,Male,Urban
+328,0786658577,Edmond Senga,,16-35,Male,Urban
+329,0785737646,Egide Uwiduhaye,,16-35,Male,Urban
+330,0780869068,Justine Gatesi,,16-35,Male,Urban
+331,0787282900,Egidia Nyinawumuntu,,16-35,Male,Urban
+332,0789053324,Hafashimana Pierre,,16-35,Male,Urban
+333,0785718212,Eliane Impano,,16-35,Male,Urban
+334,0781724129,Elie Twahirwa,,16-35,Male,Urban
+335,0788804791,Elie Twahirwa,,16-35,Male,Urban
+336,0727979935,Elie Twahirwa,,16-35,Male,Urban
+337,0781256411,Elie Twahirwa,,16-35,Male,Urban
+338,0786437704,Innocent Hakizimamana,,16-35,Male,Urban
+339,0788930596,Elimine Gashirabake,,16-35,Male,Urban
+340,0786380709,Elina Nyinawingeri,,16-35,Male,Urban
+341,0785790029,Eline Ihorindengera,,16-35,Male,Urban
+342,0780535021,Elissa Ikitegetse,,16-35,Male,Urban
+343,0788495980,Elize  Izerimana,,36-,Male,Urban
+344,0787043801,Emelyne Uwase,,16-35,Male,Urban
+345,0780873773,Emmanuel Iradukunda,,16-35,Male,Urban
+346,0780658000,Emmanuel Uwayezu,,16-35,Male,Urban
+347,0787574631,Emmanuel Uwayezu,,16-35,Male,Urban
+348,0787268620,Emmanuel uwitonze,,16-35,Male,Urban
+349,0780333142,Jean de Dieu,,36-,Male,Urban
+350,0788737811,Emmanuel Kimisange,,36-,Female,Urban
+351,072536800,Emmanuel Uwayezu,,16-35,Female,Rural
+352,0786312511,Epa frodite,,16-35,Female,Rural
+353,0788364895,Eredie Ishimwe,,16-35,Female,Rural
+354,0728500339,Bigirimana Deogracias,,36-,Female,Rural
+355,0782097956,Devotha Uwizeye,,16-35,Female,Rural
+356,0785684484,Ukurikiyesu Diedone,,16-35,Female,Rural
+357,0789614039,Harelimana Diedonne,,36-,Female,Rural
+358,0788777992,Ngenzi Alexand,,36-,Female,Rural
+359,0783423108,Niyigena Emill,,36-,Female,Rural
+360,0780858882,Emmanuel Nzayisenga,,16-35,Female,Rural
+361,0786983063,Tuyizere Emmanuel,,16-35,Female,Rural
+362,0786940248,Uwambajimana Josiane,,16-35,Female,Rural
+363,0785969660,Obed Kwizera,,16-35,Female,Rural
+364,0781143515,Uwayisaba Eriphase,,16-35,Female,Rural
+365,0782494557,Iradukunda Erick,,16-35,Female,Rural
+366,0780707004,Ndindiriyimana Eric,,16-35,Female,Rural
+367,0780517781,Honorette Girimpuhwe,,16-35,Female,Rural
+368,0782147527,Evan Tuyizere,,36-,Female,Rural
+369,0780848801,Ntizeyimana Evald,,16-35,Female,Rural
+370,0787400777,Evarist Tuyizere,,16-35,Female,Rural
+371,0788892897,Kwihangana Evalist,,36-,Female,Rural
+372,0781577377,Uwamahoro Francoies,,16-35,Female,Rural
+373,0780089024,Uwamahoro Francoies,,16-35,Female,Rural
+374,0724443221,Uwamahoro Francoies,,16-35,Female,Rural
+375,0780747134,Uwamahoro Francoies,,16-35,Female,Rural
+376,0785003133,Faust Ngendahimana,,36-,Female,Rural
+377,0786114464,Niyigena Francina,,16-35,Female,Rural
+378,0782415556,Stiven Ashimwe ,,16-35,Female,Rural
+379,0784245418,Pheza Turikumwe,,16-35,Female,Rural
+380,0786585608,Urimubenshi Fiacre,,16-35,Female,Rural
+381,0726777396,Ngendahimana Fidel,,16-35,Female,Rural
+382,0788470172,Ngendahimana Fidel,,16-35,Female,Rural
+383,0781065084,Ngendahimana Fidel,,16-35,Female,Rural
+384,0780876010,Cyuzuzo Aderphine,,16-35,Female,Rural
+385,0782052065,Bigirimana Deogracias,,16-35,Female,Rural
+386,0787850660,Uwayisaba Frecime,,16-35,Female,Rural
+387,0783476282,Twagirimana Frodiss,,36-,Female,Rural
+388,0780614290,Frollis ,,16-35,Female,Rural
+389,0783420376,Gad tumukunde,,16-35,Female,Rural
+390,0785773956,Gad tumukunde,,16-35,Female,Rural
+391,0784683361,Utamuliza Agnes,,36-,Female,Rural
+392,0787822114,Utamuliza Agnes,,36-,Female,Rural
+393,0783532612,Akimana Gorethe,,16-35,Female,Rural
+394,0789266745,Habimana Scpirie,,36-,Female,Rural
+395,0789421611,Harelimana Bosco,,16-35,Female,Rural
+396,0780449737,Patrick Ntampaka,,36-,Female,Rural
+397,0789606480,Habimana Helve,,36-,Female,Rural
+398,0783714896,James Higiro,,16-35,Female,Rural
+399,0723230612,Mukabandora Aristide,,36-,Female,Rural
+400,0781011706,Mugisha Honore,,16-35,Female,Rural
+401,0788477941,Babwiyaka Stanisalsi,,36-,Female,Rural
+402,0785509354,Nikuze Isai,,16-35,Female,Rural
+403,0783394152,Isingizwe Emmacle,,16-35,Female,Rural
+404,0784805387,Itanga Ishaka Evarist,,16-35,Female,Rural
+405,0788450245,Berthe Mugisha,,16-35,Female,Rural
+406,0784148961,Bagabo Jack,,16-35,Female,Rural
+407,0788268232,Hategekimana Jean Paulo,,36-,Female,Rural
+408,0782287295,Nyirangirimana  Jacline,,16-35,Female,Rural
+409,0785038350,harelimana jean paulo,,36-,Female,Rural
+410,0786648939,Nyinawumuntu Jean,,16-35,Female,Rural
+411,0724448276,MuhaweNimana Jeanet,,16-35,Female,Rural
+412,0787634955,Muhawemariya Jeanine,,16-35,Female,Rural
+413,0782188362,Muhawemariya Jeanine,,16-35,Female,Rural
+414,0785748892,Uzamukunda Jimmy,,16-35,Female,Rural
+415,0727898848,Kwizera Jmv,,16-35,Female,Rural
+416,0788965414,Twagirayezu Jmv,,16-35,Female,Rural
+417,0783249970,Twagirayezu Jmv,,16-35,Female,Rural
+418,0788966799,Tumukunde Joel,,16-35,Female,Rural
+419,0780057968,Harelimana Emmanuel,,36-,Female,Rural
+420,0786643907,Mujawamariya Joslyne,,16-35,Female,Rural
+421,0780420910,Muhorakeye Joyce,,16-35,Female,Rural
+422,0789078255,Muhorakeye Joyce,,16-35,Female,Rural
+423,0791591148,Ingabire Densye,,16-35,Female,Rural
+424,0786523172,Kwizera Julienne,,16-35,Female,Rural
+425,0723927864,Kagabire Augist,,16-35,Female,Rural
+426,0785274726,Kanyembabazi Jean Paul,,16-35,Female,Rural
+427,0786937334,Kanyembabazi Jean Paul,,16-35,Female,Rural
+428,0780558627,Fokbe Mukagasana,,36-,Female,Rural
+429,0788773632,Niyonsenga Erick,,16-35,Female,Rural
+430,0790925419,Kimenyi Aimable,,16-35,Female,Rural
+431,0786363534,Kwizera Emmanuel,,16-35,Female,Rural
+432,07812066595,Kwizera Geraridine,,16-35,Female,Rural
+433,0781045157,Tuyizere Libere,,16-35,Female,Rural
+434,0787414892,Eric Hakuzimana,,16-35,Female,Rural
+435,0787548698,Pacience Iradukunda,,36-,Female,Rural
+436,0788275316,Eric Mahoro,,36-,Female,Rural
+437,0788827994,Eric Tuyishimire,,16-35,Female,Rural
+438,0780213653,Nshimiyimana Ernest,,10-15,Female,Rural
+439,0787873145,Esdras Muhire,,16-35,Female,Rural
+440,0787873148,Ingabire Angelique,,36-,Female,Rural
+441,0789029683,Esther Nishimye,,16-35,Female,Rural
+442,0780047208,Esther Nishimye,,36-,Female,Rural
+443,0781913034,Etienne Shumbusho,,36-,Female,Rural
+444,0725818602,Etienne Shumbusho,,36-,Female,Rural
+445,17205060157,Ingabire Eunise,,16-35,Female,Rural
+446,0780037054,Evelyne Munezero,,36-,Female,Rural
+447,0789083600,Ujeneza Evelyne,,16-35,Female,Rural
+448,0782739952,Ezechiel Niyongamije,,36-,Female,Rural
+449,0780597793,Bosco Mutwe,,16-35,Female,Rural
+450,0784410051,Nteziryayo Fab,,10-15,Female,Rural
+451,0785193070,Fabien Ngirumpatse,,36-,Female,Rural
+452,0788684570,Fabien Rwabizi,,36-,Female,Rural
+453,0786881400,Fabiola Tumushime,,16-35,Female,Rural
+454,0788844277,Jean Paul Tuyi,,36-,Female,Rural
+455,0789586914,Bideri M Jean,,16-35,Female,Rural
+456,0780504742,Bunani Felicien,,36-,Female,Rural
+457,0782913170,Fideli Harerimana,,16-35,Female,Rural
+458,0788608982,Mwibonere Fideli,,36-,Female,Rural
+459,0789742323,Bambanza Fidelite,,16-35,Female,Rural
+460,0787452170,Igiraneza Fidelite,,16-35,Female,Rural
+461,0780650601,Niyigena Fiette,,10-15,Female,Rural
+462,0787388879,Fils Nzayikorera,,36-,Female,Rural
+463,0785298010,Josephine Mugiraneza,,16-35,Female,Rural
+464,0780318414,Frora Mutuyemariya,,36-,Female,Rural
+465,0780485865,Imanishimwe Frola,,16-35,Female,Rural
+466,0788510224,Floride Mukarubuga,,36-,Female,Rural
+467,0786131026,Ramberte Mukazana,,36-,Female,Rural
+468,0786465804,Bampire frolide,,16-35,Female,Rural
+469,0783366002,Protogene Rwanziyekare,,36-,Female,Rural
+470,0786377672,Francine Musabyimana,,16-35,Female,Rural
+471,0784191789,Francois Iyamuremye,,36-,Female,Rural
+472,0788410994,Friend Adolphe,,16-35,Female,Rural
+473,0788358749,Felix Nzayisenga,,16-35,Female,Rural
+474,0782357041,Nassuma Mukahigiro,,36-,Female,Rural
+475,0783980417,Uwamahoro Jeanne,,10-15,Female,Rural
+476,0780690933,Rukundo Gad,,10-15,Female,Rural
+477,0784912389,Umubyeyi Gaelle,,16-35,Female,Rural
+478,0789689176,Gahorero Josue,,16-35,Female,Rural
+479,0784379810,Murekeyimana Claire,,36-,Female,Rural
+480,0788201550,Ganza Josue,,16-35,Female,Rural
+481,0782750260,Twizeyimana Jean,,16-35,Female,Rural
+482,0783411131,Selestin Usabyimfura,,10-15,Female,Rural
+483,0781430798,Gerrard Tunezerwe,,36-,Female,Rural
+484,0786403702,Geredi Niyibigira,,36-,Female,Rural
+485,0783084043,geredi Sindayiheba,,36-,Female,Rural
+486,0781739020,Germaine Kanyange,,36-,Female,Rural
+487,0722047908,Gervais Ufitimana,,16-35,Female,Rural
+488,0781141570,Emelance igihozo,,16-35,Female,Rural
+489,0788613223,Mustafa Niyitegeka,,36-,Female,Rural
+490,0785047866,Gisele Ineza,,10-15,Female,Rural
+491,0780606852,Gloria Uwase,,10-15,Female,Rural
+492,0782362419,Gloria Berimana,,16-35,Female,Rural
+493,0788433138,Gloria Uwamariya,,16-35,Female,Rural
+494,0789040403,Godwin Bahari,,16-35,Female,Rural
+495,0781253700,Gloriose Uwajeneza,,36-,Female,Rural
+496,0781515523,Tumushimiyimana Marie,,16-35,Female,Rural
+497,0783031597,Gloriose Nyirantwari,,36-,Female,Rural
+498,0783413328,Marie Gorrete,,36-,Female,Rural
+499,0788449356,Jean Paul,,16-35,Female,Rural
+500,0728794256,Mukantwari Grace,,10-15,Female,Rural
+501,0785164857,Grace Mukantwari,,36-,Male,Rural
+502,0785928596,Habibu Dusabe,,16-35,Male,Rural
+503,0785831022,Hagenimana Mariseri,,36-,Male,Rural
+504,0785008393,Emmanweri Hagenimana,,36-,Male,Rural
+505,0787014712,Etienne Bigirimana,,16-35,Male,Rural
+506,0722428304,Kamana Claude,,16-35,Male,Rural
+507,0788922982,Nyirahabineza Liberee,,36-,Male,Rural
+508,0783603164,Justine Umutagatifu,,10-15,Male,Rural
+509,0736326235,Justine Umutagatifu,,10-15,Male,Rural
+510,0726619692,Niyiduha Anatholie,,36-,Male,Rural
+511,0735685036,Hagenimana Mariseri,,16-35,Male,Rural
+512,0786991978,Hagenimana Augistin,,16-35,Male,Rural
+513,0787482313,Uwineza therese,,36-,Male,Rural
+514,19375986791,Harry murphy,,36-,Male,Rural
+515,0784584021,Louise Uzarama,,16-35,Male,Rural
+516,0781419233,Henriette Uwambaje,,16-35,Male,Rural
+517,0780207146,Henriette Sangwa,,16-35,Male,Rural
+518,0788766648,Bahati felix,,36-,Male,Rural
+519,0788444362,Umutoni Zulphate,,36-,Male,Rural
+520,0785075083,Mukandahiro claudethe,,36-,Male,Rural
+521,0789269309,Golioza Mujawimana,,36-,Male,Rural
+522,0780510263,Honorine Irankunda,,16-35,Male,Rural
+523,0728487412,Nyimihanda Zhad,,36-,Male,Rural
+524,0780474854,Gatete Hubert,,16-35,Male,Rural
+525,0781135202,Hussna Uwera,,16-35,Male,Rural
+526,0788715005,Djamadar Ushizimpumu,,36-,Male,Rural
+527,0783025521,Anastase Nzayisenga,,36-,Male,Rural
+528,0786259276,Nishimwe Vestine,,16-35,Male,Rural
+529,0788278014,Enock Ishoborabyose,,36-,Male,Rural
+530,0784978213,Uwamahoro Anne Marry,,36-,Male,Rural
+531,0785805834,Ibrahim Niyitegeka,,16-35,Male,Rural
+532,0790069499,Musengayire Patricie,,36-,Male,Rural
+533,0789074770,Mariane Uwimana,,36-,Male,Rural
+534,0781921829,Console Nyirahabimana,,36-,Male,Rural
+535,0729394529,Ibrahim Niyitegeka,,16-35,Male,Rural
+536,0786514793,Ntamahungiro Christine,,36-,Male,Rural
+537,0723101198,Imani Jeremy,,36-,Male,Rural
+538,0786388142,Erevanie Mukaruhigira,,36-,Male,Rural
+539,0792050806,Mukeshimana Racheli,,36-,Male,Rural
+540,0789629040,Mukeshimana Racheli,,36-,Male,Rural
+541,0781990507,Uwineza Rose,,36-,Male,Rural
+542,0781840031,Uwayo Immaculee,,36-,Male,Rural
+543,0783197002,Chrisitine Mukamurenzi,,36-,Male,Rural
+544,0788283274,Janvier Uriho,,36-,Male,Rural
+545,0788596152,Ines Isimbi,,16-35,Male,Rural
+546,0781482379,Ingabire Densye,,36-,Male,Rural
+547,0787621454,Ines Bayiro,,16-35,Male,Rural
+548,0791125269,Alice Umutoni,,16-35,Male,Rural
+549,0781022741,Ines Bayiro,,16-35,Male,Rural
+550,0782866591,Uwambajimana Epiphanie,,36-,Male,Urban
+551,0789365986,Habari karera,,36-,Male,Urban
+552,0782516543,nizeyimana Eulade,,36-,Male,Urban
+553,0788701176,Chantal Mukeshimana,,36-,Male,Urban
+554,0785136805,Renzaho gaspard,,36-,Male,Urban
+555,0780472371,Irakora denys,,10-15,Male,Urban
+556,0788293575,Bernadette Nyirarenzaho,,36-,Male,Urban
+557,0780688648,Irakoze Josiane,,16-35,Male,Urban
+558,0780387850,Clementine Iradukunda,,16-35,Male,Urban
+559,0783571670,Getrude Uwamariya,,36-,Male,Urban
+560,0783247196,Iranzi Premise,,10-15,Male,Urban
+561,0780134079,Irene Mwiza,,16-35,Male,Urban
+562,0784046636,Flavienne Mukahirwa,,36-,Male,Urban
+563,0783631895,Itetero kayla,,10-15,Male,Urban
+564,07266228867,Isaie Urayeneza,,36-,Male,Urban
+565,0723792689,Meschake Dushime,,16-35,Male,Urban
+566,0785198787,Byukusenge Adelphine,,36-,Male,Urban
+567,0722295406,Byukusenge Adelphine,,36-,Male,Urban
+568,0780508017,Isimbi Gaella,,16-35,Male,Urban
+569,0722883530,Aimable Kamana,,36-,Male,Urban
+570,0783069958,Vincent Munyemana,,36-,Male,Urban
+571,0787453776,Israel Gatera,,36-,Male,Urban
+572,0782213641,Tuyisenge alex,,36-,Male,Urban
+573,0780467662,Israel Kwizera,,16-35,Male,Urban
+574,0784815517,Jerome Habimana,,36-,Male,Urban
+575,0726813494,Izere Liliane,,16-35,Male,Urban
+576,0783899434,Izere Jacqueline,,16-35,Male,Urban
+577,0721041600,Beata Uwimana,,36-,Male,Urban
+578,0786619803,Jacqueline Umuhoza,,16-35,Male,Urban
+579,0788925400,Jacques habagusenga,,16-35,Male,Urban
+580,0788894735,Boniface Kayumba,,36-,Male,Urban
+581,0737628412,Jacques habagusenga,,16-35,Male,Urban
+582,0787171234,Erick Hategekimana,,16-35,Male,Urban
+583,0788664583,Jeanette Akimanimpaye,,36-,Male,Urban
+584,0789310350,Jeannette Uwiringiyimana,,16-35,Male,Urban
+585,0780658491,Harelimana Claude,,16-35,Male,Urban
+586,0781646013,Jean paul Akarikumutima,,16-35,Male,Urban
+587,0788334966,Chema Nikora,,36-,Male,Urban
+588,0789693139,Pierre Claver,,36-,Male,Urban
+589,0783272504,Nyirahabimana Florance,,36-,Male,Urban
+590,0738632674,Jean paul Akarikumutima,,16-35,Male,Urban
+591,0788548702,Jean Claude,,36-,Male,Urban
+592,0785403017,Kwizera Europe,,16-35,Male,Urban
+593,0783857195,Jean de Dieu kabera,,36-,Male,Urban
+594,0782189580,Nishimwe Grace,,16-35,Male,Urban
+595,0783655861,Jean Nepomuscene,,36-,Male,Urban
+596,0783908639,Soleil Kagisye,,36-,Male,Urban
+597,0780365531,Jeannine Rumongi,,16-35,Male,Urban
+598,0788952206,Jeannine teta,,16-35,Male,Urban
+599,0788569264,Japome Karake,,36-,Male,Urban
+600,0784125606,Iradukunda Emmacule,,16-35,Male,Urban
+601,0786386348,Jeanne Mutimukeye,,36-,Male,Urban
+602,0781101793,Jeanne Uwifashije,,16-35,Male,Urban
+603,0788857281,Habimana Didiuer,,16-35,Male,Urban
+604,0788310798,Rozalie Byukukusenge,,16-35,Male,Urban
+605,0727572862,Jeanne Umulisa,,16-35,Male,Urban
+606,0788459234,Akimana  Marry Gorethe,,36-,Male,Urban
+607,0787595951,Jeanne Umulisa,,16-35,Male,Urban
+608,0727499411,Jeanne Iradukunda Francoise,,16-35,Male,Urban
+609,0788488367,Nzamwita Akuze,,36-,Male,Urban
+610,0789500886,Jeanne Kalisa,,36-,Male,Urban
+611,0788496491,Jennifer Gatete,,16-35,Male,Urban
+612,0785529169,Jean marie Vianney,,36-,Male,Urban
+613,0788290707,Aza Nyirarukundo,,36-,Male,Urban
+614,0782966496,Joel Muhumuriza,,16-35,Male,Urban
+615,0780017670,John Hitimana,,16-35,Male,Urban
+616,0784296322,Umutoni Noel,,16-35,Male,Urban
+617,0783023223,Jonas Uwiragiye,,36-,Male,Urban
+618,0786107530,Nsengumuremyi  Alex,,36-,Male,Urban
+619,0790247048,Nishimwe Vestine,,16-35,Male,Urban
+620,0787708779,Ukunda Uwabo Alice,,16-35,Male,Urban
+621,0784459471,Ishimwe Nadine,,16-35,Male,Urban
+622,0789625085,Joseline Ishimwe,,16-35,Male,Urban
+623,0784982120,Martinne Kamana,,36-,Male,Urban
+624,0786230220,Sempuhungu Nahum,,16-35,Male,Urban
+625,0784758904,Joseph Niyitanga,,36-,Male,Urban
+626,0738877808,Kwizera Aripe,,36-,Male,Urban
+627,0788409696,Kalisa emanuel,,36-,Male,Urban
+628,0788868052,Valence Kaloli,,36-,Male,Urban
+629,0788212703,Joshua Gafirimbi,,36-,Male,Urban
+630,0783501682,josiane Mahoro,,16-35,Male,Urban
+631,0784890564,Damien Ndazihakiwe,,36-,Male,Urban
+632,0787017321,Josine Turikumwe,,16-35,Male,Urban
+633,25775952184,Josiane Irumva,,16-35,Male,Urban
+634,0781073729,Josue Urimubenshi,,16-35,Male,Urban
+635,0780778179,Josue Tuyisenge,,16-35,Male,Urban
+636,905522816198,Joyeuse Kubwubuntu,,16-35,Male,Urban
+637,0780655150,Judith Imenyabyose,,16-35,Male,Urban
+638,0786199405,Jules Shema,,16-35,Male,Urban
+639,0784824295,Kabungege Christophe,,16-35,Male,Urban
+640,0785665748,Niyoyita emmanuel,,36-,Male,Urban
+641,0783702812,Fabien Turikumwe,,36-,Male,Urban
+642,0728139743,Kado Ineza,,16-35,Male,Urban
+643,0781936025,Rehema Tumukunde,,36-,Male,Urban
+644,0733108444,Kagaba Emmanuel,,36-,Male,Urban
+645,0787138478,Kagabo Adolphe,,16-35,Male,Urban
+646,0789176225,Gloriose Nyirabashyitsi,,36-,Male,Urban
+647,0783243111,Kahiriwe Yvonne,,16-35,Male,Urban
+648,0780797779,Kambali Barthazar,,36-,Male,Urban
+649,0783664235,Kamuzinzi Aime,,16-35,Male,Urban
+650,0788943997,Lenatha Mukamana,,36-,Male,Urban
+651,0788642089,Kanayire Clementine,,16-35,Male,Rural
+652,0782535685,kanziga Therese,,36-,Male,Rural
+653,0788573850,Hakizimana Fabrice,,16-35,Male,Rural
+654,0738701113,kanziga Therese,,36-,Male,Rural
+655,0783896262,Karamuka Ildephonse,,36-,Male,Rural
+656,0785668647,Karangwa Jonas,,16-35,Male,Rural
+657,0781466324,Karasira Tresphor,,36-,Male,Rural
+658,0782266523,Uwizeyimana Adolphe,,16-35,Male,Rural
+659,0782190178,kayonga Thomas,,36-,Male,Rural
+660,0780826121,kazungu james,,16-35,Male,Rural
+661,0789738043,Ntibaziyaremye Adrien,,16-35,Male,Rural
+662,0786178235,Ruzirampuhwe Emmanuel,,36-,Male,Rural
+663,0785418438,Kevin Uwayezu,,16-35,Male,Rural
+664,0787121210,kevin Mudahemuka,,36-,Male,Rural
+665,0782204795,Keyne Rudasumbwa,,36-,Male,Rural
+666,0788258688,Kibaki theogene,,36-,Male,Rural
+667,0780201948,Janne Gatera,,16-35,Male,Rural
+668,0780624432,Kimenyi Danny,,16-35,Male,Rural
+669,0724718077,Christine Nyiransabimana,,16-35,Male,Rural
+670,0782533564,Hatanga Eulade,,36-,Male,Rural
+671,07865447729,Tuyishime Anne,,16-35,Male,Rural
+672,0786184735,Irakoze Benny,,16-35,Male,Rural
+673,0784752514,Samuel Uwizera,,36-,Male,Rural
+674,0788670120,Kwisanga Ernest,,36-,Male,Rural
+675,0789692004,Orchide Laetitia,,16-35,Male,Rural
+676,0780536463,Laetitia Darien,,16-35,Male,Rural
+677,0783129296,Nzamukosha Laetitia,,16-35,Male,Rural
+678,0788474341,mugisha Valens,,36-,Male,Rural
+679,0787169155,Laurette Mutamuriza,,16-35,Male,Rural
+680,0723959225,Isimbi laurette,,16-35,Male,Rural
+681,0781726737,Leon Pierre,,36-,Male,Rural
+682,0789884871,Leontine Mukamuhizi,,16-35,Male,Rural
+683,0789808225,Liberatha Uhiriwe,,16-35,Male,Rural
+684,0728986089,Lily Uhorasenga,,36-,Male,Rural
+685,0785799412,Liliane Uwanyirigira,,16-35,Male,Rural
+686,0788760061,Liliane Bizimana,,36-,Male,Rural
+687,0784230934,Liliane Nyirarukundo,,16-35,Male,Rural
+688,0727877994,Longin Uwineza,,36-,Male,Rural
+689,0780844777,Longine Rutayisire,,36-,Male,Rural
+690,0780356128,Louise ishimwe,,16-35,Male,Rural
+691,0783759530,Jean luc,,16-35,Male,Rural
+692,0789586765,Lydiah Akanyange,,10-15,Male,Rural
+693,0786427249,Munyankindi Emma,,36-,Male,Rural
+694,0783487462,Epiphanie Rugorirwera,,36-,Male,Rural
+695,0728144649,Rose Mushimiyimana,,36-,Male,Rural
+696,0787103465,Antoinette Kanyonga,,16-35,Male,Rural
+697,0783269164,Mukagakuru Felecie,,36-,Male,Rural
+698,0785429296,Ahishakiye Anita,,36-,Male,Rural
+699,0787130597,Abdoul,abdoulkarim@gmail.com,16-35,Male,Rural
+700,0781739661,Adeliphina ,,16-35,Female,Rural
+701,0789022334,Alexander,,16-35,Female,Rural
+702,0788965753,Aloys,,36-,Female,Rural
+703,0785602012,Amani,,16-35,Female,Rural
+704,16298004183,Americana,,36-,Female,Rural
+705,0780641757,Amie nicolas,,16-35,Female,Rural
+706,0725188129,Akayezu Marc,,16-35,Female,Rural
+707,0728931356,Ndayisenga Emmanuel,,16-35,Female,Rural
+708,0723969132,Alpha Twizere,,16-35,Female,Rural
+709,0727297597,Alodie Dushimiyimana,,16-35,Female,Rural
+710,0726127945,Mukabayisenga Ester,,16-35,Female,Rural
+711,0724686996,Muhorakeye Joyce,,16-35,Female,Rural
+712,0784070599,Byiringiro Boneheir,,16-35,Female,Rural
+713,0725282153,Byigero Vedast,,36-,Female,Rural
+714,0737194317,Iradukunda Clair,,16-35,Female,Rural
+715,0728928332,Uwambajimana Chantal,,16-35,Female,Rural
+716,0726036288,Tuyisingize Claudine,,16-35,Female,Rural
+717,0722800001,Nyandwi Clonel,,36-,Female,Rural
+718,0728773650,Iraturinze claudine,,16-35,Female,Rural
+719,0725003571,Collethe Mukamana,,16-35,Female,Rural
+720,0783494719,Ngoboka Come,,36-,Female,Rural
+721,0727606154,Crioface Byukusenge,,16-35,Female,Rural
+722,0725219542,Byiringiro Christian,,16-35,Female,Rural
+723,0727575528,Musabyimana Croix,,16-35,Female,Rural
+724,0727591252,Damacent Uwimana,,16-35,Female,Rural
+725,0727355810,Hakizimana Danier,,16-35,Female,Rural
+726,0722794282,David Nkezuwimye,,16-35,Female,Rural
+727,0723789809,Igabe Densye,,16-35,Female,Rural
+728,0725422344,Deric Niyigaba,,16-35,Female,Rural
+729,0725813470,Didieu Habimana,,16-35,Female,Rural
+730,0727491888,Dominic Twagirimana,,16-35,Female,Rural
+731,0723147036,Uwimana Donatha,,16-35,Female,Rural
+732,0726656979,Dushime Alex,,16-35,Female,Rural
+733,0722461887,Herive Habimana,,36-,Female,Rural
+734,0733740978,David Busomocyi,,36-,Female,Rural
+735,0737145726,Divine Umubyeyi,,16-35,Female,Rural
+736,0780313818,Ndaziramye Ghislain,,16-35,Female,Rural
+737,0780601736,Elina Iradukunda,,16-35,Female,Rural
+738,0728953152,Niyigena Emil,,16-35,Female,Rural
+739,0727506782,Ndayisenga Emmanuel,,16-35,Female,Rural
+740,0738779537,Eric Iradukunda,,16-35,Female,Rural
+741,0723687446,Erinist Dusingizimana,,36-,Female,Rural
+742,0724640181,Uwingeneye Jeanethe,,16-35,Female,Rural
+743,0780588263,Uwimana Jeanet,,16-35,Female,Rural
+744,0733954182,Eriphase Uwayisaba,,16-35,Female,Rural
+745,0723245266,Mukeshimana Eugenia,,36-,Female,Rural
+746,0738906509,Ntizeyimana Evald,,16-35,Female,Rural
+747,0727773716,Francoise  Uwamahoro,,16-35,Female,Rural
+748,0725865673,Ferecime Uwayisaba,,16-35,Female,Rural
+749,0726774899,Dukundimana Elloyse,,16-35,Female,Rural
+750,0787237747,Etienne Bizumungu,,16-35,Female,Rural
+751,0726553440,Felx Nyabyenda,,16-35,Female,Rural
+752,0734228867,Honorathe Bizumuremyi,,16-35,Female,Rural
+753,0792440773,Niyonambaza Clalisa,,16-35,Female,Rural
+754,0723025205,Mujawamariya Grace,,16-35,Female,Rural
+755,0790569474,Nshimiyimana Delphine,,16-35,Female,Rural
+756,0787312767,Gatemberezi Tracise,,36-,Female,Rural
+757,0722529023,Manirarora Florent,,36-,Female,Rural
+758,0723429987,Kabagwira Frovian ,,36-,Female,Rural
+759,0783508177,Golioza Ingabire,,16-35,Female,Rural
+760,0780741235,Dusabimana Claudine,,16-35,Female,Rural
+761,0736125926,Cyuzuzo Adelphine,,16-35,Female,Rural
+762,0788200251,Haminsi Kamana,,36-,Female,Rural
+763,072578336,Niyonsaba Emmanuel,,16-35,Female,Rural
+764,0726873250,Iradukunda claire,,16-35,Female,Rural
+765,0790645862,Ingabire Valentine,,16-35,Female,Rural
+766,0726371232,Nikuze isaie,,16-35,Female,Rural
+767,0780365786,Uwimana Jannethe,,36-,Female,Rural
+768,0785361636,Kadette Uwamariya,,36-,Female,Rural
+769,0788582204,Bandorayingwe Petronile,,36-,Female,Rural
+770,0735949137,Hirarie Gasana,,16-35,Female,Rural
+771,0788632153,Habineza Wellars,,36-,Female,Rural
+772,0788422814,Melvie Uwizeye,,16-35,Female,Rural
+773,0735149207,Monique Uwimbabazi,,16-35,Female,Rural
+774,0723710552,ndayisenga Emmanuel,,16-35,Female,Rural
+775,0725658569,Mukansinzi Epiphanie,,16-35,Female,Rural
+776,0726919519,Nyabyenda Felxi,,36-,Female,Rural
+777,078550786,Vannessa Uwizeyimana,,16-35,Female,Rural
+778,0726071574,Vicent Nzayisemga ,,16-35,Female,Rural
+779,073713611,Irrene Kwizera,,16-35,Female,Rural
+780,0723235235,Niyibizi james,,16-35,Female,Rural
+781,0787008147,Murekatete Rose,,16-35,Female,Rural
+782,0732612010,Murekatete Rose,,16-35,Female,Rural
+783,0789291198,Mukagato Felicite,,36-,Female,Rural
+784,0788642307,Therese Uwineza,,36-,Female,Rural
+785,0783516014,Annoncita Uwera,,16-35,Female,Rural
+786,0783903470,Bamurange pelagie,,36-,Female,Rural
+787,0785919672,Ildigardi Ufitese,,36-,Female,Rural
+788,0788614821,Keisi davina,,10-15,Female,Rural
+789,0781818394,Maman Kellen,,36-,Female,Rural
+790,0785915572,Mbagirente Jacqueline,,36-,Female,Rural
+791,0726182736,Alphonsine Akimanimpaye,,16-35,Female,Rural
+792,0787505691,Alphonsine Akimanimpaye,,16-35,Female,Rural
+793,0788599124,Nadine Marriane,,36-,Female,Rural
+794,0788599219,Therese nzamukosha,,36-,Female,Rural
+795,0782971638,Umutesi Providence,,36-,Female,Rural
+796,0783646352,Ange Joy,,16-35,Female,Rural
+797,0789298945,Mugisha Gabby,,36-,Female,Rural
+798,0784258493,Manzi prince,,10-15,Female,Rural
+799,0786108678,Munyana Alice,,36-,Female,Rural
+800,0786493851,mapendo Theonestine,,16-35,Female,Rural
+801,0788866610,Marcel Albert,,36-,Female,Rural
+802,0780404886,Marguerite Marie,,16-35,Female,Rural
+803,0788929705,Mariam Umutesi,,16-35,Female,Rural
+804,0785744272,Marius Karera ,,16-35,Female,Rural
+805,0780665456,Martin kubwimana,,16-35,Female,Rural
+806,078275488,Honorathe Bizumuremyi,honbizumuremyi@gmail.com,16-35,Female,Rural
