@@ -138,7 +138,7 @@ def get_similar_items(itemId, ratings_given):
     similar_scores =similar_scores.sort_values(ascending=False)
     return similar_scores
 
-item_lover =[('Amahamba',4),('Abiru',4),('Museum',5)]
+item_lover =[('Amahamba',4),('Abiru',3),('Museum',5)]
 similar_items =pd.DataFrame()
 for itemId, ratings_given in item_lover:
     similar_items =similar_items.append(get_similar_items(itemId,ratings_given),ignore_index=True)
@@ -146,7 +146,7 @@ for itemId, ratings_given in item_lover:
 
 rowwise =similar_items.sum().sort_values(ascending=False)
 print("______________________________________")
-# print(rowwise) 
+print(rowwise) 
 
 
 y = nonrated['rating'].fillna(0)
@@ -165,7 +165,7 @@ y_test = y_test.fillna(0)
 reg = LinearRegression()
 reg.fit(X_train, y_train)
 
-print("Training score using regression: ", reg.score(X_train, y_train))
+# print("Training score using regression: ", reg.score(X_train, y_train))
 
 y_train_pred = reg.predict(X_train)
 y_test_pred = reg.predict(X_test)
@@ -174,8 +174,8 @@ y_test_pred = reg.predict(X_test)
 
     
 # Evaluation Metrics
-print("MSE train: ", mean_squared_error(y_train, y_train_pred))
-print("MSE test: ", mean_squared_error(y_test, y_test_pred))
+# print("MSE train: ", mean_squared_error(y_train, y_train_pred))
+# print("MSE test: ", mean_squared_error(y_test, y_test_pred))
 
 
 rf = RandomForestRegressor(n_estimators=90)
@@ -195,7 +195,7 @@ from sklearn.linear_model import LinearRegression
 scoresreg = cross_val_score(reg, X_transformed, y, cv=5)
 scoresrand =cross_val_score(rf, X_transformed, y, cv=5)
 # Print the mean and standard deviation of the scores
-print("Accuracy of linear regression: %0.2f (+/- %0.2f)" % (scoresreg.mean(), scoresreg.std() * 2))
+# print("Accuracy of linear regression: %0.2f (+/- %0.2f)" % (scoresreg.mean(), scoresreg.std() * 2))
 print("Accuracy of random forest: %0.2f (+/- %0.2f)" % (scoresrand.mean(), scoresrand.std() * 2))
 rf.predict([[5.]*100])
 
